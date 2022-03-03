@@ -1,5 +1,2 @@
 ﻿  Book_Pobegailo.cpp
-D:\CODE\С++\repos\Book_Pobegailo\Book_Pobegailo\Book_Pobegailo.cpp(13,19): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'int'
-D:\CODE\С++\repos\Book_Pobegailo\Book_Pobegailo\Book_Pobegailo.cpp(13,19): warning C4302: 'type cast': truncation from 'LPVOID' to 'int'
-D:\CODE\С++\repos\Book_Pobegailo\Book_Pobegailo\Book_Pobegailo.cpp(31,52): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
   Book_Pobegailo.vcxproj -> D:\CODE\С++\repos\Book_Pobegailo\x64\Debug\Book_Pobegailo.exe
