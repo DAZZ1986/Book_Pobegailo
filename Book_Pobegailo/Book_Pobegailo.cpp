@@ -316,7 +316,7 @@ int main(int argc, char *argv[])
     CloseHandle(piApp.hProcess);
 
 
-
+    //стр 61
 
 
 
